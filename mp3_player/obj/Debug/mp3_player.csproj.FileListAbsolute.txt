@@ -1,0 +1,16 @@
+D:\C#_LAB\mp3_player\bin\Debug\mp3_player.exe.config
+D:\C#_LAB\mp3_player\bin\Debug\mp3_player.exe
+D:\C#_LAB\mp3_player\bin\Debug\mp3_player.pdb
+D:\C#_LAB\mp3_player\bin\Debug\Interop.WMPLib.dll
+D:\C#_LAB\mp3_player\bin\Debug\AxInterop.WMPLib.dll
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.csproj.AssemblyReference.cache
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.csproj.SuggestedBindingRedirects.cache
+D:\C#_LAB\mp3_player\obj\Debug\Interop.WMPLib.dll
+D:\C#_LAB\mp3_player\obj\Debug\AxInterop.WMPLib.dll
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.csproj.ResolveComReference.cache
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.Form1.resources
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.Properties.Resources.resources
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.csproj.GenerateResource.cache
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.csproj.CoreCompileInputs.cache
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.exe
+D:\C#_LAB\mp3_player\obj\Debug\mp3_player.pdb
